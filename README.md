@@ -27,7 +27,7 @@
   <img align="center" alt="Rafael-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Rafael-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Rafael-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Rafael-Scratch" height="30" width="60" src="https://store-images.s-microsoft.com/image/apps.23276.14205598541777108.d0471565-31cc-4061-beba-0830f2c9a787.69d1f503-8ef3-4838-84cb-f5bdd690c9e8" />
+  <img align="center" alt="Rafael-Scratch" height="30" width="70" src="https://store-images.s-microsoft.com/image/apps.23276.14205598541777108.d0471565-31cc-4061-beba-0830f2c9a787.69d1f503-8ef3-4838-84cb-f5bdd690c9e8" />
   
  </div>
   
