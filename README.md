@@ -23,7 +23,7 @@
   <img align="center" alt="Sávio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Sávio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Rafael-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Rafael-C" height="30" width="40" src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" />
+  <img align="center" alt="Rafael-C" height="30" width="40" src="https://img2.gratispng.com/20180405/doe/kisspng-the-c-programming-language-computer-programming-co-programmer-5ac6bd83099b97.1672069615229740830394.jpg" />
   <img align="center" alt="Rafael-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Rafael-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Rafael-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
