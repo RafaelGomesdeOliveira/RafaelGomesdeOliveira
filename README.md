@@ -15,7 +15,7 @@
   <br>
 <div>
   
-<img src="https://user-images.githubusercontent.com/115905335/231295658-1b75c35e-fb7d-4f77-8360-e97c25e46ba6.jpg" height="250px" align="right">
+<img src="https://br.pinterest.com/pin/772085929854513913/" height="250px" align="right">
 
 
 <h3 align="left">Languages and Tools:</h3>
