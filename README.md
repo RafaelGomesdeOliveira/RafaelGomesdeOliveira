@@ -15,7 +15,7 @@
   <br>
 <div>
   
-<img src="https://i.pinimg.com/564x/2f/75/c8/2f75c8bb61ce3ed81119fa8e3d38e894.jpg" height="300px" align="right">
+<img src="https://i.pinimg.com/564x/2f/75/c8/2f75c8bb61ce3ed81119fa8e3d38e894.jpg" height="400px" align="right">
 
 
 <h3 align="left">Languages and Tools:</h3>
