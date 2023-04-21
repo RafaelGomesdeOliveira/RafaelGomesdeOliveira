@@ -35,7 +35,7 @@ _color=00bfbf&text_color=00bfbf&bg_color=0d1117
  </div>
   
 <br>  
-<h3 align="left">Cotatos:</h3>
+<h3 align="left">Cotato:</h3>
 <div> 
   <a href="https://www.instagram.com/rafa_gomez022/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "rafaelgomesdeoliveiraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
