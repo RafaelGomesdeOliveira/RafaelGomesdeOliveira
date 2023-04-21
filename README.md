@@ -44,3 +44,5 @@ _color=00bfbf&text_color=00bfbf&bg_color=0d1117
 </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15B7B1&height=100&section=footer"/>
+
+![Snake animation](https://github.com/RafaelGomesdeOliveira/RafaelGomesdeOliveira/blob/output/github-contribution-grid-snake.svg)
