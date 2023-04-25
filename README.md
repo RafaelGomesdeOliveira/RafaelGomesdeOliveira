@@ -45,11 +45,4 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15B7B1&height=100&section=footer"/>
   
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
-   <div style="display: inline_block" align="center"><br>
-     <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
-      <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-       <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-        <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-         <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-         <hr>
-</div>
+
