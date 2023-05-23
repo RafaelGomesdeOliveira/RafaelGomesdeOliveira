@@ -5,7 +5,7 @@
 <br>
 <br>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RafaelGomesdeOliveira&theme=gotham)
+<-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RafaelGomesdeOliveira&theme=gotham) -->
 
 
 <div align="center">  
