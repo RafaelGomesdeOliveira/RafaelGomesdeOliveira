@@ -30,6 +30,8 @@
   <img align="center" alt="Rafael-Arduino" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" />
   <img align="center" alt="Rafael-Bootstrap" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
    <img align="center" alt="Rafael-JavaScript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
+  <img align="center" alt="Rafael-JavaScript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
+   
 
 
   
