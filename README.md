@@ -22,9 +22,9 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <div style="display: inline_block">
-  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
   <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
-  <img align="center" alt="Rafael-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Rafael-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
   <img align="center" alt="Rafael-C" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
   <img align="center" alt="Rafael-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Rafael-Arduino" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" />
