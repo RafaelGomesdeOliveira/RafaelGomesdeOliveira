@@ -29,7 +29,10 @@
   <img align="center" alt="Rafael-Mysql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
   <img align="center" alt="Rafael-Arduino" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" />
   <img align="center" alt="Rafael-Bootstrap" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
+   <img align="center" alt="Rafael-JavaScript" height="30" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
   <img align="center" alt="Rafael-Scratch" height="30" width="70" src="https://store-images.s-microsoft.com/image/apps.23276.14205598541777108.d0471565-31cc-4061-beba-0830f2c9a787.69d1f503-8ef3-4838-84cb-f5bdd690c9e8" />
+
+  
   
  </div>
   
