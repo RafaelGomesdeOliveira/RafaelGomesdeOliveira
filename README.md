@@ -22,8 +22,8 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <div style="display: inline_block">
-  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
-  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+  <img align="center" alt="Rafael-HTML" height="30" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
+  <img align="center" alt="Rafael-CSS" height="30" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
   <img align="center" alt="Rafael-PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
   <img align="center" alt="Rafael-C" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
   <img align="center" alt="Rafael-Mysql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
