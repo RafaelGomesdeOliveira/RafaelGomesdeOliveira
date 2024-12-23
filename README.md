@@ -24,13 +24,15 @@
 <div style="display: inline_block">
   <img align="center" alt="Rafael-HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
   <img align="center" alt="Rafael-CSS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+  <img align="center" alt="Rafael-Tailwind" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" />
+  <img align="center" alt="Rafael-JavaScript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
+  <img align="center" alt="Rafael-React" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
   <img align="center" alt="Rafael-PHP" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
   <img align="center" alt="Rafael-C" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
   <img align="center" alt="Rafael-Mysql" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
   <img align="center" alt="Rafael-Arduino" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" />
-  <img align="center" alt="Rafael-Bootstrap" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
-   <img align="center" alt="Rafael-JavaScript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
-  <img align="center" alt="Rafael-JavaScript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
+  <img align="center" alt="Rafael-Linux" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
+  <img align="center" alt="Rafael-RaspberryPi" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg"/>
    
 
 
