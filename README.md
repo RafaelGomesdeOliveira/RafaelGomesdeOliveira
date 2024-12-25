@@ -45,7 +45,7 @@
 <div> 
   <a href="https://www.instagram.com/gomezs_rafael/" target="_blank"><img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="_blank"></a>
   <a href="malito:rafaelgomesdeoliveiraa@gmail.com"><img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="_blank"></a>
-  
+    <a href="https://www.linkedin.com/in/rafael-gomes-de-oliveira-92a173334/"><img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank"></a>
 </div>
 </div>
 
