@@ -43,8 +43,8 @@
 <br>  
 <h3 align="left">Contato:</h3>
 <div> 
-  <a href="https://www.instagram.com/rafa_gomez022/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="_blank"></a>
-  <a href="malito:rafaelgomesdeoliveiraa@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="_blank"></a>
+  <a href="https://www.instagram.com/rafa_gomez022/" target="_blank"><img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="_blank"></a>
+  <a href="malito:rafaelgomesdeoliveiraa@gmail.com"><img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="_blank"></a>
   
 </div>
 </div>
