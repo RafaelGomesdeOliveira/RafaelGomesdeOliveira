@@ -6,17 +6,19 @@
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelGomesdeOliveira&bg_color=0d1117&color=05c9cc&line=057f81&point=07dbdf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=RafaelGomesdeOliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael github esta" /> 
-  <img style="padding: 20px" width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGomesdeOliveira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<h1 align="left">Hello World!!</h1>
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelGomesdeOliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelGomesdeOliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-  <br>
-<div>
-  
+###
+
 
 
 
@@ -42,11 +44,16 @@
   
 <br>  
 <h3 align="left">Contato:</h3>
-<div> 
-  <a href="https://www.linkedin.com/in/rafael-gomes-de-oliveira-92a173334/"><img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank"></a>
-  <a href="https://www.instagram.com/gomezs_rafael/" target="_blank"><img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="_blank"></a>
-  <a href="malito:rafaelgomesdeoliveiraa@gmail.com"><img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="_blank"></a>
-
+<div align="left">
+  <a href="https://www.instagram.com/gomezs_rafael/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-gomes-de-oliveira-92a173334/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="malito:rafaelgoliveiraa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
 </div>
 </div>
 
