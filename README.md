@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b5394&size=35&center=true&vCenter=true&width=1000&lines=Olá,+a+todos+👋🏻;Sejam+bem+vindos+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073d6d&size=35&center=true&vCenter=true&width=1000&lines=Olá,+a+todos+👋🏻;Sejam+bem+vindos+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RafaelGomesdeOliveira.RafaelGomesdeOliveira&"  />
