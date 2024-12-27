@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073d6d&size=35&center=true&vCenter=true&width=1000&lines=Olá,+a+todos+👋🏻;Sejam+bem+vindos+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RafaelGomesdeOliveira.RafaelGomesdeOliveira&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RafaelGomesdeOliveira.RafaelGomesdeOliveira&left_color=darkgray&right_color=blue&left_text=visitas"  />
 </div>
 
 <h1></h1>
@@ -16,6 +16,7 @@
 
 <p align="left">Me chamo Rafael, sou apaixonado por programação desde 2021<br><br>- 📚 Atualmente estou estudando React <br>- ⚡ No meu tempo livre gosto de ler e de estar próxima a minha família</p>
 
+###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
@@ -31,16 +32,16 @@
   <img align="center" alt="Rafael-Arduino" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" />
   <img align="center" alt="Rafael-Linux" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
   <img align="center" alt="Rafael-RaspberryPi" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg"/>
-   
+</div>
+
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelGomesdeOliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelGomesdeOliveira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
-  
- </div>
-  
+
+###
 
 <h3 align="left">Contato:</h3>
 
@@ -59,6 +60,6 @@
 
 
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=100&section=footer"/>
 
 
