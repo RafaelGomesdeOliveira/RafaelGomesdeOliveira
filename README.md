@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Me chamo Rafael, sou apaixonado por programação desde 2021 e, desde então, tenho me dedicado continuamente a explorar, aprender e evoluir dentro dessa área fascinante.<br><br>- 💻 Atualmente trabalho na empresa Wicomm<br>- 📚 Estou estudando JavaScript, React, Tailwind, Wake e Scriban. <br>- 💡 Sou fascinado por automação, dispositivos IoT e por drones!<br>- ⚡ No meu tempo livre gosto de ler e de estar próxima da minha família.</p>
+<p align="left">Me chamo Rafael, sou apaixonado por programação desde 2021 e, desde então, tenho me dedicado continuamente a explorar, aprender e evoluir dentro dessa área fascinante.<br><br>- 💻 Atualmente trabalho na empresa Wicomm!<br>- 📚 Estou estudando JavaScript, React, Tailwind, Wake e Scriban. <br>- 💡 Sou fascinado por automação, dispositivos IoT e por drones!<br>- ⚡ No meu tempo livre gosto de ler e de estar próxima da minha família.</p>
 
 
 ###
